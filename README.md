@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xaniven
  👨🏽‍💻💾🧙🏽‍♂️ 
-- 🌱 I’m currently learning Web development & Solidity
+- 🌱 I’m currently learning Web development(React & associated libraries) & Solidity
 - 📫 How to reach me [@Xaniven](https://twitter.com/Xaniven) on Twitter
 
 <!---
